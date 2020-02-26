@@ -8,4 +8,5 @@
 #
 
 # Run the app
+#Dummy changes
 exec /opt/app-root/app --lang es
