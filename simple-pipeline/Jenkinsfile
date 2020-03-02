@@ -27,7 +27,7 @@ pipeline {
         // TODO: ADD A STAGE THAT SAYS HELLO
         stage('stage 2'){
             steps {
-                sh 'echo hello from stage 2!'
+                sh 'echo hello message from stage 2!'
             }   
         }		
         // TODO: ADD AN APPROVAL STAGE
@@ -40,7 +40,7 @@ pipeline {
         }
         stage('stage 3') {
             steps {
-                sh 'echo hello from stage 3!. This is the last stage...'
+                sh 'echo hello message from stage 3!. This is the last stage...'
             }
         }
 
