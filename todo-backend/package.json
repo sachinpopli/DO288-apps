@@ -1,5 +1,5 @@
 {
-  "name": "todo-backend",
+  "name": "todo-backend_v2",
   "description": "single container version of the todoapp",
   "version": "0.0.2",
   "private": true,
