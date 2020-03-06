@@ -1,5 +1,5 @@
 {
-  "name": "todo-single",
+  "name": "todo-backend",
   "description": "single container version of the todoapp",
   "version": "0.0.2",
   "private": true,
